@@ -1,0 +1,150 @@
+# Copyright (C) 2014 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/cloudflare-rocket-loader-"
+"ignore\n"
+"POT-Creation-Date: 2014-08-14 16:34:46+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: cfrli.php:32
+msgid "Do not access this file directly."
+msgstr ""
+
+#: cfrli.php:99
+msgid "You do not have sufficient permission to access this page"
+msgstr ""
+
+#: cfrli.php:103
+msgid " by "
+msgstr ""
+
+#: cfrli.php:104
+msgid "You are running plugin version"
+msgstr ""
+
+#: cfrli.php:109
+msgid "Settings"
+msgstr ""
+
+#: cfrli.php:110 cfrli.php:138
+msgid "Support"
+msgstr ""
+
+#: cfrli.php:118
+msgid "Plugin Settings"
+msgstr ""
+
+#: cfrli.php:120 cfrli.php:123
+msgid "Is plugin enabled? Uncheck this to turn it off temporarily."
+msgstr ""
+
+#: cfrli.php:120
+msgid "Plugin enabled?"
+msgstr ""
+
+#: cfrli.php:125
+msgid "Enter script filenames, one per line"
+msgstr ""
+
+#: cfrli.php:128
+msgid ""
+"Enter the filenames of any .js files you want CloudFlare's Rocket Loader to "
+"ignore. <strong>One filename per line.</strong> Include the .js file "
+"extension for specific files, or exclude for filename matching. Ex: jquery-"
+"migrate.js to exclude only that file, or 'jquery' to exclude any files with "
+"the word 'jquery' in them."
+msgstr ""
+
+#: cfrli.php:130
+msgid "Switch plugin sentiment from false to true"
+msgstr ""
+
+#: cfrli.php:133
+msgid ""
+"Check this box and the <em>data-cfasync</em> attribute will only be added "
+"for NON-MATCHING JavaScript filenames."
+msgstr ""
+
+#: cfrli.php:134
+msgid ""
+"Ex: add 'jquery.js' and check this box, then all other .js files "
+"(<strong>except jquery.js</strong>) will be ignored by Rocket Loader."
+msgstr ""
+
+#: cfrli.php:141
+msgid ""
+"Disclaimer: This plugin is not affiliated with or endorsed by CloudFlare."
+msgstr ""
+
+#: cfrli.php:234
+msgid "is currently disabled."
+msgstr ""
+
+#: cfrli.php:269
+msgid "<a href=\"http://wordpress.org/support/plugin/%s\">Support</a>"
+msgstr ""
+
+#: cfrli.php:270 cfrli.php:325
+msgid "<a href=\"http://wordpress.org/extend/plugins/%s/\">Documentation</a>"
+msgstr ""
+
+#: cfrli.php:271
+msgid "<a href=\"http://wordpress.org/plugins/%s/faq/\">FAQ</a>"
+msgstr ""
+
+#: cfrli.php:318
+msgid "<a href=\"options-general.php?page=%s\">Settings</a>"
+msgstr ""
+
+#: cfrli.php:323
+msgid "Do you need help with this plugin? Check out the following resources:"
+msgstr ""
+
+#: cfrli.php:326
+msgid "<a href=\"http://wordpress.org/plugins/%s/faq/\">FAQ</a><br />"
+msgstr ""
+
+#: cfrli.php:327
+msgid ""
+"<a href=\"http://wordpress.org/support/plugin/%s\">Support Forum</a><br />"
+msgstr ""
+
+#: cfrli.php:328
+msgid ""
+"<a href=\"http://www.jimmyscode.com/wordpress/%s\">Plugin Homepage / Demo</"
+"a><br />"
+msgstr ""
+
+#: cfrli.php:329
+msgid ""
+"<a href=\"http://wordpress.org/extend/plugins/%s/developers/\">Development</"
+"a><br />"
+msgstr ""
+
+#: cfrli.php:330
+msgid ""
+"<a href=\"http://wordpress.org/plugins/%s/changelog/\">Changelog</a><br />"
+msgstr ""
+
+#: cfrli.php:333
+msgid ""
+"If you like this plugin, please <a href=\"http://wordpress.org/support/view/"
+"plugin-reviews/%s/\">rate it on WordPress.org</a>"
+msgstr ""
+
+#: cfrli.php:334
+msgid ""
+" and click the <a href=\"http://wordpress.org/plugins/%s/#compatibility"
+"\">Works</a> button. "
+msgstr ""
+
+#: cfrli.php:336
+msgid "Your donations encourage further development and support. "
+msgstr ""
